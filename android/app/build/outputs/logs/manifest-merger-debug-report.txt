@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] E:\IT\react_native\examples\RNGuides\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] E:\IT\react_native\examples\RNGuides\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5ba051db4169d5da46c3ebc43bf61f6f\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\998fbce8747e8d7c1c89b139dcfbe3cb\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] E:\IT\react_native\examples\RNGuides\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] E:\IT\react_native\examples\RNGuides\node_modules\react-native-unimodules\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-permissions] E:\IT\react_native\examples\RNGuides\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] E:\IT\react_native\examples\RNGuides\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5811f396117bf4111291a9e66fdd9063\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\2ceb031903080c6477d846fd55f90307\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a359522097895d7cc6c2295cc05e50c1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\30d461d2b755616509274d982594c7b6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\8a9c5b7e9cdcc71d52844c93df73a00c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\66ee422bfc2680349f0c4b15450d9ac6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a3f03eeb2d4bd7597fda199f183459f8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\08e9161af2d2d36f84f07ec5511dd03e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\684e119e87267f27b4e265e24cb990bc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\36e30ea6de879f4bf9b103c2378847f7\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d356e5401f3a2f9d206c166ed5316545\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\f76c1a4a09a742e8a18016ca06ab9539\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\8ac83bf2e664cb7f2d3ac8f5f7271147\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d6b7c9958348438824b83c2792adcbcb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\ad095d95f2fdcddfba0c05f66626071b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\060468ee646462569aa1cc6496178c73\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\9ee97a923b10f7c41aaca12f60a4976c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\c3c51aed5ca15d60037894951e942741\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\329ede2b91d4009360307f7c5191b6a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d0beba6fb46cc9c1a7503b5a7397bd03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\08aebd133e9a5eb16ab039da2fdddd5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\f02b012d001478213045a347e837d62c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\58b763d10735cb836b617b08cddfbe89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4c04bf921664cb15699ba9248ae8e30b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\19b15c385fc00add18e50b75db9adae5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4523a46eb36141044791698d3f6f0792\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\297f53fa4b21324f260682e059538396\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a8060343c7f77653ceb5853c3b43a5c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bed68ae11c042fbe523b9ca5d3ef8189\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bbfec54e89202571f8c2fd77467f4fd7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\3cf43097aded94cd7b00550506aed178\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d1efacfa21dd653e45092fb6d3d335cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\b416a6bf167cc0c6a2ce1271757c32fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\e76f82b72b5690bbb03c0a488d64b8c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d242445f4e7b918c5cb159517e29961c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\9af28e0dcaa78608eccb03a14ecd7038\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\e274fb709480b25c35dbf4e37ac4b0c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\503298a486b21db9d74918e3fc196c54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\423dfaa251c7da7ae24402d9cab75ef7\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5ba051db4169d5da46c3ebc43bf61f6f\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5ba051db4169d5da46c3ebc43bf61f6f\AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\684e119e87267f27b4e265e24cb990bc\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\684e119e87267f27b4e265e24cb990bc\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\36e30ea6de879f4bf9b103c2378847f7\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\36e30ea6de879f4bf9b103c2378847f7\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4523a46eb36141044791698d3f6f0792\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4523a46eb36141044791698d3f6f0792\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\297f53fa4b21324f260682e059538396\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\297f53fa4b21324f260682e059538396\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bed68ae11c042fbe523b9ca5d3ef8189\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bed68ae11c042fbe523b9ca5d3ef8189\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4523a46eb36141044791698d3f6f0792\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.rnguides.MainActivity
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] E:\IT\react_native\examples\RNGuides\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\IT\react_native\examples\RNGuides\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] E:\IT\react_native\examples\RNGuides\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] E:\IT\react_native\examples\RNGuides\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5ba051db4169d5da46c3ebc43bf61f6f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5ba051db4169d5da46c3ebc43bf61f6f\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\998fbce8747e8d7c1c89b139dcfbe3cb\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\998fbce8747e8d7c1c89b139dcfbe3cb\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] E:\IT\react_native\examples\RNGuides\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] E:\IT\react_native\examples\RNGuides\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] E:\IT\react_native\examples\RNGuides\node_modules\react-native-unimodules\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] E:\IT\react_native\examples\RNGuides\node_modules\react-native-unimodules\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-permissions] E:\IT\react_native\examples\RNGuides\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] E:\IT\react_native\examples\RNGuides\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] E:\IT\react_native\examples\RNGuides\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] E:\IT\react_native\examples\RNGuides\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] E:\IT\react_native\examples\RNGuides\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5811f396117bf4111291a9e66fdd9063\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\5811f396117bf4111291a9e66fdd9063\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\2ceb031903080c6477d846fd55f90307\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\2ceb031903080c6477d846fd55f90307\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a359522097895d7cc6c2295cc05e50c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a359522097895d7cc6c2295cc05e50c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\30d461d2b755616509274d982594c7b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\30d461d2b755616509274d982594c7b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\8a9c5b7e9cdcc71d52844c93df73a00c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\8a9c5b7e9cdcc71d52844c93df73a00c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\66ee422bfc2680349f0c4b15450d9ac6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\66ee422bfc2680349f0c4b15450d9ac6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a3f03eeb2d4bd7597fda199f183459f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a3f03eeb2d4bd7597fda199f183459f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\08e9161af2d2d36f84f07ec5511dd03e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\08e9161af2d2d36f84f07ec5511dd03e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\684e119e87267f27b4e265e24cb990bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\684e119e87267f27b4e265e24cb990bc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\36e30ea6de879f4bf9b103c2378847f7\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\36e30ea6de879f4bf9b103c2378847f7\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d356e5401f3a2f9d206c166ed5316545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d356e5401f3a2f9d206c166ed5316545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\f76c1a4a09a742e8a18016ca06ab9539\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\f76c1a4a09a742e8a18016ca06ab9539\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\8ac83bf2e664cb7f2d3ac8f5f7271147\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\8ac83bf2e664cb7f2d3ac8f5f7271147\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d6b7c9958348438824b83c2792adcbcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d6b7c9958348438824b83c2792adcbcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\ad095d95f2fdcddfba0c05f66626071b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\ad095d95f2fdcddfba0c05f66626071b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\060468ee646462569aa1cc6496178c73\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\060468ee646462569aa1cc6496178c73\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\9ee97a923b10f7c41aaca12f60a4976c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\9ee97a923b10f7c41aaca12f60a4976c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\c3c51aed5ca15d60037894951e942741\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\c3c51aed5ca15d60037894951e942741\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\329ede2b91d4009360307f7c5191b6a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\329ede2b91d4009360307f7c5191b6a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d0beba6fb46cc9c1a7503b5a7397bd03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d0beba6fb46cc9c1a7503b5a7397bd03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\08aebd133e9a5eb16ab039da2fdddd5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\08aebd133e9a5eb16ab039da2fdddd5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\f02b012d001478213045a347e837d62c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\f02b012d001478213045a347e837d62c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\58b763d10735cb836b617b08cddfbe89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\58b763d10735cb836b617b08cddfbe89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4c04bf921664cb15699ba9248ae8e30b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4c04bf921664cb15699ba9248ae8e30b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\19b15c385fc00add18e50b75db9adae5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\19b15c385fc00add18e50b75db9adae5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4523a46eb36141044791698d3f6f0792\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\4523a46eb36141044791698d3f6f0792\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\297f53fa4b21324f260682e059538396\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\297f53fa4b21324f260682e059538396\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a8060343c7f77653ceb5853c3b43a5c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\a8060343c7f77653ceb5853c3b43a5c0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bed68ae11c042fbe523b9ca5d3ef8189\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bed68ae11c042fbe523b9ca5d3ef8189\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bbfec54e89202571f8c2fd77467f4fd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\bbfec54e89202571f8c2fd77467f4fd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\3cf43097aded94cd7b00550506aed178\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\3cf43097aded94cd7b00550506aed178\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d1efacfa21dd653e45092fb6d3d335cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d1efacfa21dd653e45092fb6d3d335cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\b416a6bf167cc0c6a2ce1271757c32fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\b416a6bf167cc0c6a2ce1271757c32fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\e76f82b72b5690bbb03c0a488d64b8c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\e76f82b72b5690bbb03c0a488d64b8c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d242445f4e7b918c5cb159517e29961c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\d242445f4e7b918c5cb159517e29961c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\9af28e0dcaa78608eccb03a14ecd7038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\9af28e0dcaa78608eccb03a14ecd7038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\e274fb709480b25c35dbf4e37ac4b0c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\e274fb709480b25c35dbf4e37ac4b0c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\503298a486b21db9d74918e3fc196c54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\503298a486b21db9d74918e3fc196c54\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\423dfaa251c7da7ae24402d9cab75ef7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\MyASUS\.gradle\caches\transforms-2\files-2.1\423dfaa251c7da7ae24402d9cab75ef7\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from E:\IT\react_native\examples\RNGuides\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] E:\IT\react_native\examples\RNGuides\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
